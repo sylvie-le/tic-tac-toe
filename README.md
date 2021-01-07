@@ -11,6 +11,6 @@ What it does:
 + When the game is finshed, ask for replay option.
 
 What it does not do:
-+ Ask to choose the marker type. The player who goes first always play X, and the other plays O.
++ Ask to choose the marker type. The player who goes first always play X and the other plays O.
 
 To play the game, run `game_on()`
