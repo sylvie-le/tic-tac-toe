@@ -1,5 +1,3 @@
-# tic-tac-toe
-A tic-tac-toe game - Python
 This is a simple tic-tac-toe game written in Python.
 What it does:
 + Present the play board of 3x3
